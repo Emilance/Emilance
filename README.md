@@ -1,7 +1,5 @@
 [![MasterHead](https://i.ibb.co/XbVX7PV/Blue-Pink-Gradient-Fashion-Banner.png)](https://Emilance.github.io)
 
-
-
 <h1 align="center">Hi 👋, I'm ALABI DAMILOLA DANIEL</h1>
 <h3 align="center">A passionate React JS frontend developer</h3>
 
