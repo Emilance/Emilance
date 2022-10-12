@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alabidamilolad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alabidamilolad3" height="30" width="40" /></a>
+<a href="https://twitter.com/alabidamilolad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eminencex3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/damilola-daniel-alabi-120036218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilola-daniel-alabi-120036218" height="30" width="40" /></a>
 <a href="https://fb.com/damiloladaniel.alabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damiloladaniel.alabi" height="30" width="40" /></a>
 <a href="https://instagram.com/eminence.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eminence.x" height="30" width="40" /></a>
