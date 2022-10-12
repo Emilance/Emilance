@@ -1,13 +1,13 @@
 [![MasterHead](https://res.cloudinary.com/dhwwrlplj/image/upload/v1665539632/cover1_zopdup.png)](https://Emilance.github.io)
 
 <h1 align="center">Hi 👋, I'm ALABI DAMILOLA DANIEL</h1>
-<h3 align="center">A passionate React JS frontend developer</h3>
+<h3 align="center">A passionate React JS  developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilance&label=Profile%20views&color=0e75b6&style=flat" alt="emilance" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://emmyjsx.netlify.app/](https://emmyjsx.netlify.app/)
 
-- 💬 Ask me about **React js, Javascript, Typescipt, HTML, CSS**
+- 💬 Ask me about **React js, Javascript, Typescipt, NodeJS, MongoDB**
 
 - 📫 How to reach me **Emmyfedev@gmail.com**
 
