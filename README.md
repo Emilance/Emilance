@@ -8,7 +8,7 @@
   <td   valign="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilance&label=Profile%20views&color=0e75b6&style=flat" alt="emilance" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://emmyjsx.netlify.app/](https://emmyjsx.netlify.app/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **React js, Javascript, Typescipt, NodeJS**
 
