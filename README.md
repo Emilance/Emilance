@@ -1,7 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/dhwwrlplj/image/upload/v1665539632/cover1_zopdup.png)](https://Emilance.github.io)
+  [![An image of @eminence's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eminence)](https://holopin.io/@eminence)
 
 <h1 align="center">Hi 👋, I'm ALABI DAMILOLA DANIEL</h1>
-<h3 align="center">A passionate React JS  developer</h3>
+<h3 align="center">A MERN Stack  developer</h3>
 
 <table>
 <tr  >
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React js, Javascript, Typescipt, NodeJS**
 
-- 📫 How to reach me **Emmyfedev@gmail.com**
+- 📫 How to reach me **Alabidamilolad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,7 +68,6 @@
   </tr>
   </table>
   
-  [![An image of @eminence's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eminence)](https://holopin.io/@eminence)
 
   ## My Github Stats
   <table>
