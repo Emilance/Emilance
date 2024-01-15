@@ -1,7 +1,7 @@
   [![An image of @eminence's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eminence)](https://holopin.io/@eminence)
 
 <h1 align="center">Hi 👋, I'm ALABI DAMILOLA DANIEL</h1>
-<h3 align="center">A MERN Stack  developer</h3>
+<h3 align="center">A Full Stack  developer</h3>
 
 <table>
 <tr  >
