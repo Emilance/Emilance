@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilance&label=Profile%20views&color=0e75b6&style=flat" alt="emilance" /> </p>
 
     
-- 💬 Ask me about **React js, Javascript, Typescipt, NodeJS**
-
+- 💬 Ask me about **React js, Javascript, Typescipt, NodeJS, Python**
+- 👨🏽‍💻 Currently Learning **Golang**
 - 📫 How to reach me **Alabidamilolad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
